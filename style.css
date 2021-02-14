@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+#friends{
+    width:30%;
+}
+
+#sisters{
+    width:40%;
+}
+
+#logo{
+    width:20%;
+}
+
+#p1{
+    font-size:20px;
+}
+
+#h2{
+    font-size:50;
+    font-family:cursive;
+    font-weight:900; 
+}
+#barbie{
+    height: 40%;
+}
+#ken{
+    height: 40%;
+}
+#teresa{
+    height: 40%;
+}
+#chelsea{
+    height: 40%;
+}
+#skipper{
+    height: 40%;
+}
+#stacie{
+    height: 40%;
+}
+#p2{
+    color:deeppink;
+    font-family:sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
